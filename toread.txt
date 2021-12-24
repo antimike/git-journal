@@ -1,0 +1,37 @@
+- [ ] Unique games conjecture (wiki)
+- [ ] Mathematical psych (wiki)
+- [ ] Social choice theory (wiki)
+- [ ] Tournament (graph theory) / feedback arc set
+- [ ] B+ trees (filesystem datastructure)
+- [ ] Meson docs
+- [ ] Silent Earth : Insect apocalypse
+- [ ] zsh man pages : zshcalsys, zshcontrib --> zmv, etc.
+- [ ] Description Logics (wiki)
+- [ ] Guns, Germs, and Steel
+- [ ] Paper : Time-reversal symmetry breaking in electron quadruple superconductors : Nature Physics, Egor Babaev, Ba1-xKxFe2As2
+- [ ] The Drunken Silenus: On Gods, Goats, and the Cracks in Reality (Morgan Meis)
+- [ ] Von Neumann Minds: Intentional Automata, 11/23/2015, Jochen Szangolies (preprint)
+- [ ] Von Neumann Minds: A Toy Model of Meaning in a Natural World, 2018, Jochen Szangolies (preprint)
+- [ ] Absence of Barren Plateaus in Quantum Convolutional Neural Networks, Physical Review X, Marco Cerezo / Los Alamos, 10/18/2021
+- [ ] Time Traveler: A Scientist's Personal Mission to make Time Travel a Reality, Dr. Ronald L. Mallett & Bruce Henderson
+- [ ] State with spontaneously broken time-reversal symmetry above the superconducting phase transition, Vadim Grinenko, Daniel Weston, Federico Caglieris, Christoph Wuttke, Christian Hess, Tino Gottschall, Ilaria Maccari, Denis Gorbunov, Sergei Zherlitsyn, etc., Nature Physics, 10/18/2021, DOI=10.1038/s41567-021-01350-9
+- [ ] Every graph contains a linearly sized induced subgraph with all degrees odd, Asaf Ferber and Michael Krivelevich, arXiv:2009.05495 (math), 09/11/2020
+- [ ] If time had no beginning, Bruno Veleixo Bento and Stav Zalel, arXiv:2109.11953 (gr-qc), 09/24/2021
+- [ ] Debt: The First 5000 Years, David Graeber
+- [ ] The Dawn of Everything: A New History of Humanity, David Graeber and David Wengrow
+- [ ] Martin's Maximum++ implies Woodin's axiom, Annals of Mathematics, pp. 793-835 vol. 193 (2021) issue 3, David Aspero and Ralf Schindler
+- [ ] Being You: the construction of consciousness, Anil Seth
+- [ ] The Conscious Mind: In Search of a Fundamental Theory, David Chalmers
+- [ ] Facing Up to the Problem of Consciousness, David J. Chalmers, University of AZ, Journal of Consciousness Studies 2(3):200-19, 1995
+- [ ] Kicking the Psychophysical Laws into Gear: A New Approach to the Combination Problem, Journal of Consciousness Studies 18(11), Tam Hunt, 11/2011
+- [ ] Superfluidity of Light and its Breakdown in Optical Mesh Lattices, Physical Review Letters (2021), DOI=10.1103/PhysRevLett.127.163901
+- [ ] Foundation trilogy (Isaac Asimov)
+- [ ] How Democracies Die
+- [ ] Higher Algebra (Henry S. Hall)
+- [ ] Patrick O'Brien (Master and Commander)
+- [ ] John LeCarre
+- [ ] Timothy Andersen : Chaotic deterministic quantization in a 5D general relativity : arXiv
+- [ ] Vortex particle model in a renormalizable quantum gravity (2010) : T. D. Andersen
+- [ ] Deterministic Chaos in General Relativity : David HobillAdrian BurdAlan Coley : Springer (book)
+- [ ] de Broglie Deterministic Dice and emerging Relativistic Quantum Mechanics : DOI:10.1088/1742-6596/306/1/012049 : Dolce Donatello, University of Camerino
+- [ ]  Spin gravity: a non-Abelian gauge theory on a flat spacetime : T. D. Andersen : arXiv:0912.3901
