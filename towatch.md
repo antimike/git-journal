@@ -1,0 +1,7 @@
+- Brian Cranston show with awesome music (cf. CO sound)
+- [ ] Triangle
+- [ ] Community (Netflix)
+- [ ] Parasite
+- [ ] Apt Pupil
+- [ ] Black Mirror: "time dilation" episode
+- [ ] Alien: Covenant
